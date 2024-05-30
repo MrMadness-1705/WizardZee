@@ -1,2 +1,2 @@
 # WizardZee
-This Is My 3D game
+This Is My 2D game
